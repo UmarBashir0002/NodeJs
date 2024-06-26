@@ -1,0 +1,16 @@
+{
+  "name": "connection1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^3.7.3",
+    "mongoose": "^5.13.15"
+  }
+}

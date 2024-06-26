@@ -1,0 +1,84 @@
+[
+    03-01-2023 T 04: 10: 50.5050 PM | DEBUG | LOG:  Parameters: [
+        {
+            "header": {
+                "loginBranch": "0004",
+                "loginUserId": "TSTING",
+                "loginUserBatch": 501,
+                "loginUserIp": "",
+                "activityCode": "OBCRESP",
+                "moduleCode": "TELLER",
+                "subActivityCode": "IBCREAL",
+                "loginBranchDate": "2023-01-04",
+                "currencyCode": "",
+                "instantPostingAllowed": false,
+                "instantAuthorizationAllowed": false
+            },
+            "transactionDto": [
+                {
+                    "activityYear": "2022",
+                    "activityNumber": "5127",
+                    "creditEntry": {
+                        "branchCode": "0004",
+                        "accountType": "",
+                        "customerNumber": "",
+                        "runNumber": "",
+                        "checkDigit": "",
+                        "iden": "",
+                        "mainHead": "",
+                        "subHead1": "",
+                        "subHead2": "",
+                        "glRunNumber": "",
+                        "glCheckDigit": "",
+                        "currency": "",
+                        "amount": "3600.00",
+                        "valueDate": "",
+                        "iban": "",
+                        "narration": {
+                            "narration1": "",
+                            "narration2": "NATIONAL BANK OF PAKISTAN-205",
+                            "narration3": "CH",
+                            "narration4": "",
+                            "narration5": ""
+                        }
+                    },
+                    "debitEntry": {
+                        "branchCode": "0004",
+                        "accountType": 81,
+                        "customerNumber": 50008,
+                        "runNumber": 90,
+                        "checkDigit": 6,
+                        "iden": "C",
+                        "mainHead": "",
+                        "subHead1": "",
+                        "subHead2": "",
+                        "glRunNumber": "",
+                        "glCheckDigit": "",
+                        "currency": "",
+                        "amount": "3600.00",
+                        "valueDate": "",
+                        "iban": "",
+                        "narration": {
+                            "narration1": "",
+                            "narration2": "NATIONAL BANK OF PAKISTAN-205",
+                            "narration3": "CH-GAWADAR BR.",
+                            "narration4": "",
+                            "narration5": ""
+                        }
+                    },
+                    "instrument": {
+                        "instrumentNumber": "107215"
+                    },
+                    "beneficiary": {
+                        "benificiaryBranch": 3002,
+                        "draweeBank": 1,
+                        "draweeBranchCode": ""
+                    },
+                    "receiptNumber": "107215",
+                    "remarks": ""
+                }
+            ]
+        }
+    ] | fundTransferActor
+]
+this is appended line
